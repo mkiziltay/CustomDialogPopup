@@ -5,8 +5,8 @@
 * Target sdk version : API 30
 * We used Dialog.class in this project.
 * We have 2 project in this repo :
-    ** Dialog popup without dialog button
-    ** Dailog popup with dialog button
+    * * Dialog popup without dialog button
+    * * Dailog popup with dialog button
 
 ## Code Written Directories 
 * MainActivity.java

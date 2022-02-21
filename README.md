@@ -21,5 +21,5 @@
   Not used external library.
 
 ## Screen View Example
-<img src="*************" alt = "Adding Reminders" width=394 height=851>
+<img src="https://raw.githubusercontent.com/mkiziltay/CustomDialogPopup/main/ScreensView.JPG" alt = "Adding Reminders" width=394 height=851>
 

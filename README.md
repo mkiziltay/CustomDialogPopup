@@ -18,7 +18,7 @@
 * ic_baseline_account_box_24.xml
 
 ## Used : Libraries
-  No used external library.
+  Not used external library.
 
 ## Screen View Example
 <img src="*************" alt = "Adding Reminders" width=394 height=851>

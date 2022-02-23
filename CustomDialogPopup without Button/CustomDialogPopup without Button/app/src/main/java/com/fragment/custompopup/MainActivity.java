@@ -26,9 +26,9 @@ public class MainActivity extends AppCompatActivity {
         popup.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                mDialog.setContentView(R.layout.popup_layout);
-                mDialog.getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
-                mDialog.show();
+                mDialog.setContentView(R.layout.popup_layout); // Set popup resource file
+                mDialog.getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT)); // Set background transparent
+                mDialog.show(); // show popup
             }
         });
     }

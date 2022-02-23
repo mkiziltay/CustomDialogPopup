@@ -20,6 +20,6 @@
 ## Used : Libraries
   Not used external library.
 
-## Screen View Example
+## Screen View Example ( with Button )
 <img src="https://raw.githubusercontent.com/mkiziltay/CustomDialogPopup/main/ScreensView.JPG" alt = "Adding Reminders" width=394 height=851>
 

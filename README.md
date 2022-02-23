@@ -2,7 +2,7 @@
 * Custom Dialog Popup with rounded corners and transparent background.
 
 * min sdk version : API 26
-* Target sdk version : API 30
+* Target sdk version : API 31
 * We used Dialog.class in this project.
 * We have 2 project in this repo :
     * * Dialog popup without dialog button
